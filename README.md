@@ -23,6 +23,7 @@ Me interesa seguir creciendo en el mundo de la programación, construir proyecto
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rodni0101)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodnialexanderpuertas@gmail.com)
 
 </div>
 
@@ -55,12 +56,6 @@ Me interesa seguir creciendo en el mundo de la programación, construir proyecto
 ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Rodni0101&theme=dark&hide_border=true)
 
 </div>
-
----
-
-## 📫 Contacto  
-
-- 📧 Email: **rodnialexanderpuertas@gmail.com**
 
 ---
 
