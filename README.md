@@ -1,28 +1,24 @@
 <div align="center">
 
-# Hi 👋, I'm Rodney
+# Hola 👋, soy Rodney
 
-### Desarrollador de la ciudad de cartagena
+### 💻 Desarrollador en formación desde Cartagena, Colombia
 
 <img src="https://github.com/Rodni0101.png" alt="Rodney" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
 
-## 🚀 About Me
+---
 
-Estudiante de analisis y desarrollo de software en formacion
+## 🚀 Sobre mí
 
-## 📞 Contact & Links
+Soy estudiante de análisis y desarrollo de software, actualmente enfocado en aprender y mejorar mis habilidades como desarrollador.
 
-<div align="left">
+Me interesa seguir creciendo en el mundo de la programación, construir proyectos propios y prepararme para mis futuras prácticas 💪
 
-- 📫 How to reach me **rodnialexanderpuertas@gmail.com**
-- 👨‍💻 All of my projects are available at
-  [https://github.com/Rodni0101](https://github.com/Rodni0101)
+---
 
-</div>
-
-## 🌐 Connect with Me
+## 🌐 Portafolio y contacto
 
 <div align="center">
 
@@ -30,52 +26,52 @@ Estudiante de analisis y desarrollo de software en formacion
 
 </div>
 
-## 🛠️ Skills & Technologies
+---
 
-### 💻 Programming Languages
+## 🛠️ Tecnologías que estoy usando
+
+### 💻 Lenguajes de programación
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 💻 Frontend Development
+### 🎨 Desarrollo web
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 💻 Database
+### 🗄️ Bases de datos
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 💻 DevOps
+### ⚙️ Herramientas
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 💻 Other
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Stats & Activity
+## 📊 Mi progreso en GitHub
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Rodni0101&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Rodni0101&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Rodni0101&theme=dark&column=7&margin-w=15&margin-h=15)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodni0101&layout=compact&theme=radical&langs_count=10)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rodni0101&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodni0101&layout=compact&theme=radical&langs_count=10)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rodni0101&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=Rodni0101&theme=dark&hide_border=true)
 
 </div>
 
 ---
 
+## 📫 Contacto
+
+- 📧 Email: **rodnialexanderpuertas@gmail.com**
+
+---
+
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 🎯 "El código es como el humor. Si tienes que explicarlo, no es tan bueno."
 
-**Thank you for visiting my profile! 😊**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Rodni0101&color=brightgreen&style=flat-square&label=Profile+Views)
+**Gracias por pasarte por mi perfil 🙌**
 
 </div>
