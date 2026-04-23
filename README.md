@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://canva.link/asoy6nd2sf7d20k" alt="Profile Banner" width="100%" />
+  <img src="https://readme-img.onrender.com/api/banner?username=Rodni0101&template=modern1&bg=dark&font=default" alt="Rodni0101's GitHub Stats" />
 </div>
 
 <div align="center">
