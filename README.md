@@ -1,23 +1,24 @@
 <div align="center">
-  <img src="https://readme-img.onrender.com/api/banner?username=Rodni0101&template=modern1&bg=dark&font=default" alt="Rodni0101's GitHub Stats" />
-</div>
-
-<div align="center">
 
 # Hi 👋, I'm Rodney
 
-### A passionate developer from [Your Location]
+### Desarrollador de la ciudad de cartagena
 
 <img src="https://github.com/Rodni0101.png" alt="Rodney" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
+
+## 🚀 About Me
+
+Estudiante de analisis y desarrollo de software en formacion
 
 ## 📞 Contact & Links
 
 <div align="left">
 
 - 📫 How to reach me **rodnialexanderpuertas@gmail.com**
-- 👨‍💻 All of my projects are available at [https://github.com/Rodni0101](https://github.com/Rodni0101)
+- 👨‍💻 All of my projects are available at
+  [https://github.com/Rodni0101](https://github.com/Rodni0101)
 
 </div>
 
